@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="INKATLAS — รุ่นถัดไปของ INKIDEA" width="100%">
+  <img src="assets/banner.png" alt="INKATLAS — สตูดิโอนิยายครบวงจร" width="100%">
 </p>
 
 <h1 align="center">INKATLAS</h1>
 
-<p align="center"><b>รุ่นถัดไปของ INKIDEA — เปิดให้เฉพาะผู้ได้รับเชิญ</b></p>
+<p align="center"><b>สตูดิโอนิยายครบวงจร — เปิดให้เฉพาะผู้ได้รับเชิญ</b></p>
 
 <p align="center">
   <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest"><img src="https://img.shields.io/github/v/release/snibzyz/inkatlas-releases?style=for-the-badge&label=release&color=7C3AED" alt="release"></a>
@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Apple Silicon">
 </p>
 
-INKATLAS ติดตั้งคู่กับ INKIDEA ได้ในเครื่องเดียวกัน — ใช้คีย์เดิมของคุณ แต่คีย์ต้อง**ได้รับสิทธิ์ ATLAS** ก่อน
-(คีย์ที่ยังไม่มีสิทธิ์ ใช้ INKIDEA ได้ตามเดิม) · เปิดครั้งแรกแอปจะนำค่าตั้งจาก INKIDEA ในเครื่องมาให้เอง ·
-หลังติดตั้งแล้ว แอปอัปเดตตัวเองจาก repo นี้
+ใช้งานได้เฉพาะคีย์ที่**ได้รับสิทธิ์ ATLAS** · ติดตั้งครั้งเดียว หลังจากนั้นแอปอัปเดตตัวเองจาก repo นี้
 
 > repo นี้เก็บเฉพาะไฟล์ติดตั้ง — ไม่มีซอร์สโค้ด
 
