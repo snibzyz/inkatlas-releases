@@ -4,7 +4,7 @@
 
 <h1 align="center">INKATLAS</h1>
 
-<p align="center"><b>สตูดิโอนิยายครบวงจร — เปิดให้เฉพาะผู้ได้รับเชิญ</b></p>
+<p align="center"><b>ให้ AI ทำงานนิยายแทนคุณ — คุณแค่คอยดูและคุม</b><br>โหลด · คำศัพท์ · แปล · ตรวจ · ปก · เสียง · คลิป · ลงเว็บ ครบในแอปเดียว</p>
 
 <p align="center">
   <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest"><img src="https://img.shields.io/github/v/release/snibzyz/inkatlas-releases?style=for-the-badge&label=release&color=7C3AED" alt="release"></a>
@@ -16,9 +16,60 @@
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Apple Silicon">
 </p>
 
+<p align="center">
+  <img src="assets/preview.gif" alt="ตัวอย่างการใช้งาน INKATLAS — ต่อ AI · เฝ้าดูงาน · ทัวร์แนะนำ" width="88%">
+</p>
+
 ใช้งานได้เฉพาะคีย์ที่**ได้รับสิทธิ์ ATLAS** · ติดตั้งครั้งเดียว หลังจากนั้นแอปอัปเดตตัวเองจาก repo นี้
 
 > repo นี้เก็บเฉพาะไฟล์ติดตั้ง — ไม่มีซอร์สโค้ด
+
+---
+
+## ใช้ยังไง — 3 ขั้น
+
+| 1. โหลดและเปิด | 2. ต่อ AI ของคุณ | 3. สั่งงาน แล้วคอยดู |
+|---|---|---|
+| โหลดไฟล์ติดตั้งด้านล่าง ใส่คีย์ที่ได้รับ | หน้าแรกมีปุ่มต่อ Claude หรือ ChatGPT กดปุ่มเดียว แอปตั้งค่าให้เอง | พิมพ์สั่ง AI ในแชตของคุณ ความคืบหน้าขึ้นที่หน้าแรกของแอป |
+
+### ต่อ AI ในกดเดียว
+
+<p align="center">
+  <img src="assets/1-connect.png" alt="หน้าแรกมีปุ่มต่อ Claude Code, ChatGPT (Codex), Claude Desktop" width="88%">
+</p>
+
+กดปุ่มโปรแกรม AI ที่ใช้ (ตัวที่เครื่องมีอยู่จะขึ้นก่อน) ทำตามข้อเดียวที่แอปบอก แล้วพิมพ์ข้อความแรกในแชตของ AI
+เมื่อ AI เรียกเข้ามาจริง แอปจะขึ้น **"ต่อ Claude แล้ว"** ให้เห็นเอง
+
+<p align="center">
+  <img src="assets/2-connected.png" alt="ต่อ Claude แล้ว และแถบคุม AI ขึ้นว่า AI ต่ออยู่" width="88%">
+</p>
+
+### เฝ้าดูและคุมงาน
+
+<p align="center">
+  <img src="assets/3-home.png" alt="หน้าแรก: คุม AI · งานที่กำลังทำ · ความเคลื่อนไหว · รอตัดสินใจ" width="88%">
+</p>
+
+- **คุม AI** — ดูว่า AI ต่ออยู่ไหม ตั้งสิทธิ์เป็น "ทำงานได้" หรือ "ดูอย่างเดียว" และหยุดงานได้ทันที
+- **ความเคลื่อนไหว** — บันทึกว่า AI ทำอะไรไปแล้ว
+- **รอตัดสินใจ** — เฉพาะเรื่องที่ AI ตัดสินเองไม่ได้ ต้องให้คุณเคาะ
+
+### ทัวร์แนะนำ
+
+เปิดแอปครั้งแรกมีทัวร์ 6 จุดชี้ให้ดูของจริงในแอป เปิดดูซ้ำได้จาก **ตั้งค่า → เกี่ยวกับ**
+
+<p align="center">
+  <img src="assets/tour-4.png" alt="ทัวร์แนะนำ ขั้นคุม AI" width="88%">
+</p>
+
+### ตั้งค่าการเชื่อม AI
+
+<p align="center">
+  <img src="assets/4-settings-ai.png" alt="ตั้งค่า → เชื่อม AI ภายนอก" width="88%">
+</p>
+
+เลือกได้ว่า AI ทำอะไรได้บ้าง (สิทธิ์ · เครื่องมือแต่ละกลุ่ม) และต่อกับโปรแกรมอื่นเพิ่มได้
 
 ---
 
@@ -28,8 +79,7 @@
 
 | เครื่อง | ไฟล์ | หมายเหตุ |
 |---|---|---|
-| Windows | `INKATLAS-Setup-x.x.x.exe` | ตัวติดตั้ง — แนะนำ (อัปเดตอัตโนมัติ) |
-| Windows | `INKATLAS-Portable-x.x.x.exe` | แบบพกพา ไม่ต้องติดตั้ง |
+| Windows | `INKATLAS-Setup-x.x.x.exe` | ตัวติดตั้ง (อัปเดตอัตโนมัติ) |
 | macOS — Apple Silicon (M1 ขึ้นไป) | `INKATLAS-x.x.x-arm64.dmg` | |
 
 ไฟล์ `latest.yml` / `latest-mac.yml` มีไว้ให้ระบบอัปเดตอ่าน — ไม่ต้องโหลดเอง
@@ -56,6 +106,7 @@
 
 - **Windows** — Windows 10 ขึ้นไป (64-bit)
 - **macOS** — macOS 10.15 ขึ้นไป · Apple Silicon
+- โปรแกรม AI ที่ใช้สั่งงาน เช่น Claude Desktop, Claude Code หรือ ChatGPT Codex (ตัวใดตัวหนึ่ง)
 
 ---
 
