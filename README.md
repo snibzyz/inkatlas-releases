@@ -7,14 +7,17 @@
 <p align="center"><b>ให้ AI ทำงานนิยายแทนคุณ — คุณแค่คอยดูและคุม</b><br>โหลด · คำศัพท์ · แปล · ตรวจ · ปก · เสียง · คลิป · ลงเว็บ ครบในแอปเดียว</p>
 
 <p align="center">
-  <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest"><img src="https://img.shields.io/github/v/release/snibzyz/inkatlas-releases?style=for-the-badge&label=release&color=7C3AED" alt="release"></a>
-  <a href="https://github.com/snibzyz/inkatlas-releases/releases"><img src="https://img.shields.io/github/downloads/snibzyz/inkatlas-releases/total?style=for-the-badge&label=downloads&color=A78BFA" alt="downloads"></a>
-  <img src="https://img.shields.io/badge/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D-1E1B4B?style=for-the-badge" alt="สิทธิ์ เฉพาะผู้ได้รับเชิญ">
+  <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-Setup.exe"><img src="https://img.shields.io/badge/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-Windows-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="ดาวน์โหลดสำหรับ Windows"></a>
+  <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-arm64.dmg"><img src="https://img.shields.io/badge/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-macOS%20Apple%20Silicon-111111?style=for-the-badge&logo=apple&logoColor=white" alt="ดาวน์โหลดสำหรับ macOS (Apple Silicon)"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%2B-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10+">
-  <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Apple Silicon">
+  <a href="https://github.com/snibzyz/inkatlas-releases/releases/latest"><img src="https://img.shields.io/github/v/release/snibzyz/inkatlas-releases?style=flat-square&label=%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&color=7C3AED" alt="รุ่นล่าสุด"></a>
+  <a href="https://github.com/snibzyz/inkatlas-releases/releases"><img src="https://img.shields.io/github/downloads/snibzyz/inkatlas-releases/total?style=flat-square&label=%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94&color=A78BFA" alt="ยอดดาวน์โหลด"></a>
+  <img src="https://img.shields.io/badge/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-%E0%B9%84%E0%B8%97%E0%B8%A2-4C1D95?style=flat-square" alt="ภาษาไทย">
+  <img src="https://img.shields.io/badge/%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-Claude%20%C2%B7%20ChatGPT-1E1B4B?style=flat-square" alt="ใช้กับ Claude และ ChatGPT">
+  <img src="https://img.shields.io/badge/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D-1E1B4B?style=flat-square" alt="สิทธิ์ เฉพาะผู้ได้รับเชิญ">
 </p>
+<p align="center"><sub>Windows 10 ขึ้นไป · macOS 10.15 ขึ้นไป (Apple Silicon) · ปุ่มด้านบนโหลดรุ่นล่าสุดเสมอ · <a href="https://github.com/snibzyz/inkatlas-releases/releases">ดูทุกรุ่น</a></sub></p>
 
 <p align="center">
   <img src="assets/preview.gif" alt="ตัวอย่างการใช้งาน INKATLAS — ต่อ AI · เฝ้าดูงาน · ทัวร์แนะนำ" width="88%">
@@ -83,8 +86,8 @@
 
 | เครื่อง | ไฟล์ | หมายเหตุ |
 |---|---|---|
-| Windows | `INKATLAS-Setup-x.x.x.exe` | ตัวติดตั้ง (อัปเดตอัตโนมัติ) |
-| macOS — Apple Silicon (M1 ขึ้นไป) | `INKATLAS-x.x.x-arm64.dmg` | |
+| Windows | [`INKATLAS-Setup.exe`](https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-Setup.exe) | ตัวติดตั้ง (อัปเดตอัตโนมัติ) |
+| macOS — Apple Silicon (M1 ขึ้นไป) | [`INKATLAS-arm64.dmg`](https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-arm64.dmg) | |
 
 ไฟล์ `latest.yml` / `latest-mac.yml` มีไว้ให้ระบบอัปเดตอ่าน — ไม่ต้องโหลดเอง
 
@@ -93,7 +96,7 @@
 ## ติดตั้ง
 
 ### Windows
-1. ดับเบิลคลิก `INKATLAS-Setup-x.x.x.exe` — ติดตั้งเสร็จแล้วแอปเปิดเอง
+1. ดับเบิลคลิก `INKATLAS-Setup.exe` — ติดตั้งเสร็จแล้วแอปเปิดเอง
 2. ถ้าตัวติดตั้งขึ้นว่า "cannot be closed" ให้ปิด INKATLAS ที่เปิดค้างใน Task Manager ก่อน
 
 ### macOS
