@@ -23,15 +23,13 @@
   <img src="assets/preview.gif" alt="ตัวอย่างการใช้งาน INKATLAS — ต่อ AI · เฝ้าดูงาน · ทัวร์แนะนำ" width="88%">
 </p>
 
-ใช้งานได้เฉพาะคีย์ที่**ได้รับสิทธิ์ ATLAS** · ติดตั้งครั้งเดียว หลังจากนั้นแอปอัปเดตตัวเองจาก repo นี้
-
-> repo นี้เก็บเฉพาะไฟล์ติดตั้ง — ไม่มีซอร์สโค้ด
+ใช้งานได้เฉพาะคีย์ที่**ได้รับสิทธิ์ ATLAS** · ติดตั้งครั้งเดียว แอปอัปเดตตัวเองให้
 
 ---
 
 ## ใช้ยังไง — 3 ขั้น
 
-ไม่มีคู่มือสอนทีละปุ่ม — **ถามให้ AI บอกเองได้เลยว่าทำอะไรได้บ้าง** · แนะนำ Claude Code + Sonnet 5.5 · ดู **[คู่มือเริ่มต้น](GUIDE.md)**
+**ถามให้ AI บอกเองได้เลยว่าทำอะไรได้บ้าง** · แนะนำ Claude Code + Sonnet 5.5 · ดู **[คู่มือเริ่มต้น](GUIDE.md)**
 
 | 1. โหลดและเปิด | 2. ต่อ AI ของคุณ | 3. สั่งงาน แล้วคอยดู |
 |---|---|---|
@@ -89,8 +87,6 @@
 | Windows | [`INKATLAS-Setup.exe`](https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-Setup.exe) | ตัวติดตั้ง (อัปเดตอัตโนมัติ) |
 | macOS — Apple Silicon (M1 ขึ้นไป) | [`INKATLAS-arm64.dmg`](https://github.com/snibzyz/inkatlas-releases/releases/latest/download/INKATLAS-arm64.dmg) | |
 
-ไฟล์ `latest.yml` / `latest-mac.yml` มีไว้ให้ระบบอัปเดตอ่าน — ไม่ต้องโหลดเอง
-
 ---
 
 ## ติดตั้ง
@@ -116,7 +112,5 @@
 - โปรแกรม AI ที่ใช้สั่งงาน เช่น Claude Desktop, Claude Code หรือ ChatGPT Codex (ตัวใดตัวหนึ่ง)
 
 ---
-
-ไฟล์ติดตั้งทุกรุ่นสร้างและเผยแพร่อัตโนมัติผ่าน GitHub Actions
 
 © INKREALM
